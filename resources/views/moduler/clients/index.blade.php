@@ -17,6 +17,8 @@
 
 @section('content')
 
+<h1>Test</h1>
+
 <div class="test-row">
 <div class="test-column _2">
 
